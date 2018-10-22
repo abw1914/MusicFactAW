@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MusicFactoryAW</string>
+    <string name="jazz">Best Jazz Music</string>
+    <string name="classical">Best Classical Music</string>
+    <string name="slowjams">Best Slow Jams</string>
+    <string name="gospel">Best Gospel Music</string>
+</resources>

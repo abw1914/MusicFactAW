@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="album_cover_height">170dp</dimen>
+    <dimen name="album_cover_width">170dp</dimen>
+    <dimen name="cover_padding">12dp</dimen>
+
+</resources>
